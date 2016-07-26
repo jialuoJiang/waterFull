@@ -1,0 +1,27 @@
+
+*
+{
+    padding:0;
+    margin:0;
+
+}
+
+
+/* 瀑布流*/
+
+#main{
+    position: relative;
+}
+.box{
+    padding-left:15px;
+    padding-top:15px;
+    float:left;
+}
+.pic{
+    padding:8px;
+    border:1px solid #dcdcdc;
+    border-radius:3px;
+    box-shadow:0 0 5px #ccc;
+}
+
+.pic img{width:230px;height:auto}
